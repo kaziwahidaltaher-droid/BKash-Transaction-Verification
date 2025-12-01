@@ -1,251 +1,208 @@
 -- Merging decision tree log ---
 manifest
-<<<<<<< HEAD
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a775c46ef0993f24f3f512651ef98267\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wahid\.gradle\caches\transforms-4\31689fcffa701436bb8fa44f76dd8485\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\ff2559461c21333268dba031cf4a6107\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e467c95c6f0e4d6761b50af32945b565\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\2b131123f82893c2c43cb79987708187\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\525784364702357cf8f67c9fc1210cca\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e56d231781413aa93f3dc6f8740de288\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\b687ae13354085374830f9fd95938e88\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf3463684125223b646d5623b9077e2d\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\649fb5dae8b1806a27fe62ba0e6bc4dc\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\fb033b85b9e8e85681fe38a04d213c8a\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6eaadab2ff42a2b8860ce8c35559a2d0\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\bd1ac55e94854d17f3dc0375ef7027e1\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\dfba2d328001858b5437e1a23ae6b89a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a2aa9990167a74e4f321eca6a480517c\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\68c9e3fbc32f0cede93fc6ecd8f289d9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e790a5126ea6c8ef507985db3d8f02f6\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\b4f7a3c6facbac96fca41c0da7be3ecc\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\aa09646715a995e26181cc238722eb6e\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf62f823acd480ac27ee064c37060f9f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6ef94f9eaa2d211172683b2d9eb97fa8\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1daef54c1093dc9f0d94608b46c24c22\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\5801cb6f9a4185f9d21f3473e9cebe86\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\a2dac9a47b403fa5a04d9f4526d52956\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1a342990d1405d14d0a10d2624e586f3\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\08bb5b38ac4fce78e59428edfa902673\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:5-72
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:5:5-72
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:22-69
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:5:22-69
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:5-75
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:6:5-75
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:22-72
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:6:22-72
 uses-permission#android.permission.SEND_SMS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:7:5-70
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:8:5-70
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:7:22-67
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:8:22-67
 uses-permission#android.permission.READ_SMS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.WRITE_SMS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:9:5-68
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:9:22-65
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:10:22-65
 uses-permission#android.permission.RECEIVE_MMS
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:10:5-70
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:11:5-70
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:10:22-67
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:11:22-67
 uses-permission#android.permission.WRITE
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:11:5-64
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:12:5-64
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:11:22-61
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:12:22-61
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:12:5-66
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:12:22-63
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:13:22-63
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:5-81
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:15:22-78
 application
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:16:5-37:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\student\.android\build-cache\846ab04580c26fc991f6f95f7cdf7be39c6ef16e\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:19:9-41
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:17:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wahid\.gradle\caches\transforms-4\31689fcffa701436bb8fa44f76dd8485\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wahid\.gradle\caches\transforms-4\31689fcffa701436bb8fa44f76dd8485\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\68c9e3fbc32f0cede93fc6ecd8f289d9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\68c9e3fbc32f0cede93fc6ecd8f289d9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:21:9-35
-	android:roundIcon
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:20:9-54
-	android:allowBackup
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:17:9-35
-	android:icon
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:18:9-43
-	android:theme
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:22:9-40
-activity#mahbubcseju.bkashverificationsystem.MainActivity
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:9-29:20
-	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:24:13-28:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:25:17-69
-	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:25:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:27:17-77
-	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:27:27-74
-receiver#mahbubcseju.bkashverificationsystem.SmsReceiver
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:31:9-35:20
-	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:31:19-46
-intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:32:13-34:29
-action#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:33:17-81
-	android:name
-		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:33:25-79
-uses-sdk
-INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\student\.android\build-cache\846ab04580c26fc991f6f95f7cdf7be39c6ef16e\output\AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:26:9-47
-=======
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:1-28:12
-	package
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-	android:versionName
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.RECEIVE_SMS
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:5-70
-	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:22-67
-uses-permission#android.permission.READ_SMS
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:5-67
-	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:22-64
-uses-permission#android.permission.SEND_SMS
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:5-67
-	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:22-64
-application
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:7:5-26:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Student\.android\build-cache\8f62665ed662e4660c1feb70477a4759f8c325ca\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Student\.android\build-cache\2c2a5650554f84771ba43158e2de28b6e802dcee\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Student\.android\build-cache\3fcdd1e08b4c1fb679a677c295d1d68963661eff\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Student\.android\build-cache\6874f72cfbe9c93e3f6a21df9fb7d4afce3bd084\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Student\.android\build-cache\563691f128527cf182e720e6e7c5a8748144a967\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\3637e463df67dbfd5ff8913513b8b3066977d4f0\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\674c88a34868707c8f858ba6995d4fa756b9bf4a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Student\.android\build-cache\308ba4c0862e400cb1f7fc95a00b03d3704ae791\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\.android\build-cache\8cdd0dd7672478732ce8aa4bafd1ad7184bf196e\output\AndroidManifest.xml:9:5-20
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:10:9-41
-	android:supportsRtl
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:20:9-41
 	android:roundIcon
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:11:9-54
-	android:allowBackup
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:21:9-54
 	android:icon
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:18:9-35
 	android:theme
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:23:9-40
 activity#mahbubcseju.bkashverificationsystem.MainActivity
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:24:9-30:20
 	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:15:13-19:29
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:28:27-74
 receiver#mahbubcseju.bkashverificationsystem.SmsReceiver
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:21:9-25:20
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:32:9-36:20
 	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:21:19-46
-intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:22:13-24:29
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:32:19-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:33:13-35:29
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:17-81
+ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:34:17-81
 	android:name
-		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:25-79
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml:34:25-79
 uses-sdk
-INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Student\.android\build-cache\8f62665ed662e4660c1feb70477a4759f8c325ca\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Student\.android\build-cache\2c2a5650554f84771ba43158e2de28b6e802dcee\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Student\.android\build-cache\3fcdd1e08b4c1fb679a677c295d1d68963661eff\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Student\.android\build-cache\6874f72cfbe9c93e3f6a21df9fb7d4afce3bd084\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Student\.android\build-cache\563691f128527cf182e720e6e7c5a8748144a967\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\3637e463df67dbfd5ff8913513b8b3066977d4f0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\674c88a34868707c8f858ba6995d4fa756b9bf4a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Student\.android\build-cache\308ba4c0862e400cb1f7fc95a00b03d3704ae791\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\.android\build-cache\8cdd0dd7672478732ce8aa4bafd1ad7184bf196e\output\AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:23:9-75
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a775c46ef0993f24f3f512651ef98267\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a775c46ef0993f24f3f512651ef98267\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wahid\.gradle\caches\transforms-4\31689fcffa701436bb8fa44f76dd8485\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wahid\.gradle\caches\transforms-4\31689fcffa701436bb8fa44f76dd8485\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\ff2559461c21333268dba031cf4a6107\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\ff2559461c21333268dba031cf4a6107\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e467c95c6f0e4d6761b50af32945b565\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e467c95c6f0e4d6761b50af32945b565\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\2b131123f82893c2c43cb79987708187\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\2b131123f82893c2c43cb79987708187\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\525784364702357cf8f67c9fc1210cca\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\525784364702357cf8f67c9fc1210cca\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e56d231781413aa93f3dc6f8740de288\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e56d231781413aa93f3dc6f8740de288\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\b687ae13354085374830f9fd95938e88\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\b687ae13354085374830f9fd95938e88\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf3463684125223b646d5623b9077e2d\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf3463684125223b646d5623b9077e2d\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\649fb5dae8b1806a27fe62ba0e6bc4dc\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\649fb5dae8b1806a27fe62ba0e6bc4dc\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\fb033b85b9e8e85681fe38a04d213c8a\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\fb033b85b9e8e85681fe38a04d213c8a\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6eaadab2ff42a2b8860ce8c35559a2d0\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6eaadab2ff42a2b8860ce8c35559a2d0\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\bd1ac55e94854d17f3dc0375ef7027e1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\bd1ac55e94854d17f3dc0375ef7027e1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\dfba2d328001858b5437e1a23ae6b89a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\dfba2d328001858b5437e1a23ae6b89a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a2aa9990167a74e4f321eca6a480517c\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\a2aa9990167a74e4f321eca6a480517c\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\d829cca04fe1b6b598467ae0712ade81\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\68c9e3fbc32f0cede93fc6ecd8f289d9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\68c9e3fbc32f0cede93fc6ecd8f289d9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e790a5126ea6c8ef507985db3d8f02f6\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\e790a5126ea6c8ef507985db3d8f02f6\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\b4f7a3c6facbac96fca41c0da7be3ecc\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\b4f7a3c6facbac96fca41c0da7be3ecc\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\aa09646715a995e26181cc238722eb6e\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\aa09646715a995e26181cc238722eb6e\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf62f823acd480ac27ee064c37060f9f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\cf62f823acd480ac27ee064c37060f9f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6ef94f9eaa2d211172683b2d9eb97fa8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\6ef94f9eaa2d211172683b2d9eb97fa8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1daef54c1093dc9f0d94608b46c24c22\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1daef54c1093dc9f0d94608b46c24c22\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\5801cb6f9a4185f9d21f3473e9cebe86\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\5801cb6f9a4185f9d21f3473e9cebe86\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\a2dac9a47b403fa5a04d9f4526d52956\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\a2dac9a47b403fa5a04d9f4526d52956\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1a342990d1405d14d0a10d2624e586f3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Wahid\.gradle\caches\transforms-4\1a342990d1405d14d0a10d2624e586f3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\08bb5b38ac4fce78e59428edfa902673\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Wahid\.gradle\caches\transforms-4\08bb5b38ac4fce78e59428edfa902673\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-		INJECTED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Student\.android\build-cache\8f62665ed662e4660c1feb70477a4759f8c325ca\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Student\.android\build-cache\2c2a5650554f84771ba43158e2de28b6e802dcee\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Student\.android\build-cache\3fcdd1e08b4c1fb679a677c295d1d68963661eff\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Student\.android\build-cache\6874f72cfbe9c93e3f6a21df9fb7d4afce3bd084\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Student\.android\build-cache\563691f128527cf182e720e6e7c5a8748144a967\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\3637e463df67dbfd5ff8913513b8b3066977d4f0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Student\.android\build-cache\674c88a34868707c8f858ba6995d4fa756b9bf4a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Student\.android\build-cache\308ba4c0862e400cb1f7fc95a00b03d3704ae791\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:26:9-47
->>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wahid\Documents\GitHub\BKash-Transaction-Verification\app\src\main\AndroidManifest.xml

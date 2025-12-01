@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "mahbubcseju.bkashverificationsystem.app-mergeDebugResources-7:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wahid\\.gradle\\caches\\transforms-4\\a775c46ef0993f24f3f512651ef98267\\transformed\\appcompat-v7-28.0.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
